@@ -1,0 +1,19 @@
+{
+  "name": "rstmpw/core7-app",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "RSTM Team",
+      "email": "team@rstm.pw"
+    }
+  ],
+  "require": {
+    "php": "^7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "rstmpw\\core7\\app\\": "src/"
+    }
+  }
+}
